@@ -109,9 +109,9 @@ Estos estilos se centran en el comportamiento de un sistema. Definen cómo los c
 
 Al elegir un estilo arquitectónico, los arquitectos deben considerar los siguientes factores:
 
-*Los requisitos del sistema:*  Los arquitectos deben considerar los requisitos funcionales y no funcionales del sistema al elegir un estilo arquitectónico.
+☑️ *Los requisitos del sistema:*  Los arquitectos deben considerar los requisitos funcionales y no funcionales del sistema al elegir un estilo arquitectónico.
 
-*Las limitaciones del sistema:* Los arquitectos deben considerar las limitaciones del sistema, como la plataforma de hardware y software, al elegir un estilo arquitectónico.
+☑️ *Las limitaciones del sistema:* Los arquitectos deben considerar las limitaciones del sistema, como la plataforma de hardware y software, al elegir un estilo arquitectónico.
 
-*Las preferencias del equipo:* Los arquitectos deben considerar las preferencias del equipo de desarrollo al elegir un estilo arquitectónico.
+☑️ *Las preferencias del equipo:* Los arquitectos deben considerar las preferencias del equipo de desarrollo al elegir un estilo arquitectónico.
 
