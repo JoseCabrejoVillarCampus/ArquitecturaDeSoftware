@@ -1,4 +1,6 @@
-# ARQUITECTURA DE SOFTWARE
+# 🧑‍💻 ARQUITECTURA DE SOFTWARE 🧑‍💻
+
+<img src="./img/desarrollo-software-1688x844.jpg">
 
 
 La arquitectura de software es la estructura de un sistema de software, que define sus componentes, sus relaciones y sus principios de diseño. Es un plan de cómo se va a construir un sistema de software, que se desarrolla en las primeras etapas del proceso de desarrollo.
@@ -9,43 +11,74 @@ En sus inicios, el desarrollo de software se realizaba de manera informal. Con e
 
 David Garlan y Mary Shaw, en su libro "An introduction to Software Architecture", definen la arquitectura como un nivel de diseño que se centra en aspectos más allá de los algoritmos y estructuras de datos. El diseño y la especificación de la estructura global del sistema es un nuevo tipo de problema.
 
-# PATRONES DE DISEÑO
+# 👨‍💻 PATRONES DE DISEÑO 👨‍💻
 
 Los patrones de diseño en la arquitectura de software son soluciones generales y reutilizables a problemas comunes en la arquitectura de software. Son similares a los patrones de diseño de software, pero tienen un alcance más amplio.
 
+Los patrones de diseño se centran en la resolución de problemas comunes en el diseño de software. Se centran en la estructura y el comportamiento de los componentes individuales de un sistema.
+
+Algunos ejemplos de patrones de diseño son:
+
+🛰️ *Factory:* 
+
+Este patrón proporciona una forma de crear objetos sin exponer la lógica de creación.
+
+🛰️ *Singleton:* 
+
+Este patrón garantiza que solo haya una instancia de una clase en un sistema.
+
+🛰️ *Adapter:* 
+
+Este patrón permite que dos clases que no son compatibles se comuniquen entre sí.
+
+## 🏗️ Patrones de arquitectura 🏗️
+
 Los patrones de diseño de arquitectura de software se pueden clasificar en dos categorías principales:
 
-## Patrones de organización: 
+## ⚙️ Patrones de organización:  
 
 Estos patrones se centran en la estructura global de un sistema. Definen la relación entre los componentes de un sistema y cómo se comunican entre sí.
 Patrones de comportamiento: Estos patrones se centran en el comportamiento de un sistema. Definen cómo los componentes de un sistema interactúan entre sí para lograr un objetivo.
 Algunos ejemplos de patrones de diseño de arquitectura de software son:
 
-## Patrón de capas: 
+## ⚙️ Patrón de capas: 
 
 Este patrón divide un sistema en capas, cada una de las cuales se encarga de una tarea específica.
 
-## Patrón cliente-servidor: 
+## ⚙️ Patrón cliente-servidor: 
 
 Este patrón divide un sistema en dos partes: los clientes, que realizan peticiones, y los servidores, que responden a las peticiones.
 
-## Patrón de microservicios: 
+## ⚙️ Patrón de microservicios:  
 
 Este patrón divide un sistema en un conjunto de servicios independientes que se comunican entre sí.
 Los patrones de diseño de arquitectura de software pueden ser una herramienta valiosa para los arquitectos de software. Pueden ayudar a los arquitectos a diseñar sistemas más eficientes, escalables y adaptables.
 
-# Ventajas de los patrones de diseño de arquitectura de software:
 
-*Reutilización:* Los patrones de diseño de arquitectura de software se pueden reutilizar en diferentes proyectos. Esto puede ahorrar tiempo y esfuerzo a los arquitectos.
+# ✔️ Ventajas de los patrones de diseño de arquitectura de software: ✔️
 
-*Mejora de la calidad:* Los patrones de diseño de arquitectura de software pueden ayudar a los arquitectos a diseñar sistemas más eficientes, escalables y adaptables.
+🟢 *Reutilización:* Los patrones de diseño de arquitectura de software se pueden reutilizar en diferentes proyectos. Esto puede ahorrar tiempo y esfuerzo a los arquitectos.
 
-*Comunicación:* Los patrones de diseño de arquitectura de software pueden ayudar a los arquitectos a comunicar sus diseños a otros miembros del equipo.
+🟢 *Mejora de la calidad:* Los patrones de diseño de arquitectura de software pueden ayudar a los arquitectos a diseñar sistemas más eficientes, escalables y adaptables.
 
-# Desventajas de los patrones de diseño de arquitectura de software:
+🟢 *Comunicación:* Los patrones de diseño de arquitectura de software pueden ayudar a los arquitectos a comunicar sus diseños a otros miembros del equipo.
 
-*No son soluciones universales:* Los patrones de diseño de arquitectura de software no son soluciones universales. Es importante que los arquitectos los adapten a las necesidades específicas de su proyecto.
+# ❌ Desventajas de los patrones de diseño de arquitectura de software: ❌
 
-*Pueden ser difíciles de aprender:* Los patrones de diseño de arquitectura de software pueden ser difíciles de aprender, especialmente para los arquitectos principiantes.
+🔴 *No son soluciones universales:* Los patrones de diseño de arquitectura de software no son soluciones universales. Es importante que los arquitectos los adapten a las necesidades específicas de su proyecto.
+
+🔴 *Pueden ser difíciles de aprender:* Los patrones de diseño de arquitectura de software pueden ser difíciles de aprender, especialmente para los arquitectos principiantes.
 
 Los patrones de diseño de arquitectura de software pueden ser una herramienta valiosa para los arquitectos de software. Pueden ayudar a los arquitectos a diseñar sistemas más eficientes, escalables y adaptables.
+
+# ❕ ¿CÓMO DIFERENCIAR UN PATRÓN ARQUITECTÓNICO? ❕
+
+Para diferenciar un patrón arquitectónico, se pueden tener en cuenta los siguientes criterios:
+
+🔹 *Nivel de abstracción:* Los patrones arquitectónicos se centran en la estructura global de un sistema, mientras que los patrones de diseño se centran en el diseño de componentes individuales.
+
+🔹 *Ámbito:*  Los patrones arquitectónicos se centran en problemas comunes en la arquitectura de software, mientras que los patrones de diseño se centran en problemas comunes en el diseño de software.
+
+🔹 *Estructura:* Los patrones arquitectónicos definen la estructura global de un sistema, mientras que los patrones de diseño definen la estructura de componentes individuales.
+
+🔹 *Comportamiento:* Los patrones arquitectónicos definen el comportamiento de un sistema, mientras que los patrones de diseño definen el comportamiento de componentes individuales.
