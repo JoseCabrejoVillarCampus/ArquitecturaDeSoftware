@@ -15,7 +15,10 @@ David Garlan y Mary Shaw, en su libro "An introduction to Software Architecture"
 
 Los patrones de diseño en la arquitectura de software son soluciones generales y reutilizables a problemas comunes en la arquitectura de software. Son similares a los patrones de diseño de software, pero tienen un alcance más amplio.
 
-Los patrones de diseño se centran en la resolución de problemas comunes en el diseño de software. Se centran en la estructura y el comportamiento de los componentes individuales de un sistema.
+Los patrones de diseño se centran en la resolución de problemas comunes en el diseño de software. Se centran en la estructura y el comportamiento de los componentes individuales de un sistema.}
+
+<img src="./img/117387421_183427829837460_6419369328557154213_n.png" style="display:block; margin:0 auto;">
+
 
 Algunos ejemplos de patrones de diseño son:
 
@@ -32,6 +35,8 @@ Este patrón garantiza que solo haya una instancia de una clase en un sistema.
 Este patrón permite que dos clases que no son compatibles se comuniquen entre sí.
 
 ## 🏗️ Patrones de arquitectura 🏗️
+
+<img src="./img/patrones-de-arquitectura-de-software.png" style="display:block; margin:0 auto;">
 
 Los patrones de diseño de arquitectura de software se pueden clasificar en dos categorías principales:
 
@@ -82,3 +87,31 @@ Para diferenciar un patrón arquitectónico, se pueden tener en cuenta los sigui
 🔹 *Estructura:* Los patrones arquitectónicos definen la estructura global de un sistema, mientras que los patrones de diseño definen la estructura de componentes individuales.
 
 🔹 *Comportamiento:* Los patrones arquitectónicos definen el comportamiento de un sistema, mientras que los patrones de diseño definen el comportamiento de componentes individuales.
+
+
+# QUÉ SON LOS ESTILOS ARQUITECTONICOS❓❓❓
+
+Los estilos arquitectónicos son un conjunto de principios y prácticas que se utilizan para diseñar sistemas de software. Los estilos arquitectónicos proporcionan una plantilla para la estructura y el comportamiento de un sistema, y pueden ayudar a los arquitectos a diseñar sistemas más eficientes, escalables y adaptables.
+
+## 👫 Relación entre los patrones de diseño, arquitectónicos y estilos arquitectóinicos
+
+Los estilos arquitectónicos se pueden clasificar en dos categorías principales:
+
+## 🗼 Estilos arquitectónicos de organización: 
+
+Estos estilos se centran en la estructura global de un sistema. Definen la relación entre los componentes de un sistema y cómo se comunican entre sí.
+
+## 🗼 Estilos arquitectónicos de comportamiento: 
+
+Estos estilos se centran en el comportamiento de un sistema. Definen cómo los componentes de un sistema interactúan entre sí para lograr un objetivo.
+
+## 🔎 Estrategias para elegir un estilo arquitectónico: 🔎
+
+Al elegir un estilo arquitectónico, los arquitectos deben considerar los siguientes factores:
+
+*Los requisitos del sistema:*  Los arquitectos deben considerar los requisitos funcionales y no funcionales del sistema al elegir un estilo arquitectónico.
+
+*Las limitaciones del sistema:* Los arquitectos deben considerar las limitaciones del sistema, como la plataforma de hardware y software, al elegir un estilo arquitectónico.
+
+*Las preferencias del equipo:* Los arquitectos deben considerar las preferencias del equipo de desarrollo al elegir un estilo arquitectónico.
+
