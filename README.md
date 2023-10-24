@@ -1,15 +1,8 @@
-# 🧑‍💻 ARQUITECTURA DE SOFTWARE 🧑‍💻
+# 🧑‍💻 PATRONES DE DISEÑO 🧑‍💻
 
-<img src="./img/desarrollo-software-1688x844.jpg">
+<img src="./img/patron.jpg">
 
-
-La arquitectura de software es la estructura de un sistema de software, que define sus componentes, sus relaciones y sus principios de diseño. Es un plan de cómo se va a construir un sistema de software, que se desarrolla en las primeras etapas del proceso de desarrollo.
-
-La arquitectura de software es importante porque proporciona una visión general de un sistema de software, lo que permite a los desarrolladores tomar decisiones informadas sobre el diseño y la implementación. También ayuda a garantizar que el sistema de software sea escalable, adaptable y mantenible.
-
-En sus inicios, el desarrollo de software se realizaba de manera informal. Con el tiempo, se han desarrollado nuevos modelos y estándares para resolver los desafíos modernos. Estos modelos y estándares se denominan arquitectura de software. Al igual que los planos de un edificio, la arquitectura de software define la estructura, el funcionamiento y la interacción entre las partes del software.
-
-David Garlan y Mary Shaw, en su libro "An introduction to Software Architecture", definen la arquitectura como un nivel de diseño que se centra en aspectos más allá de los algoritmos y estructuras de datos. El diseño y la especificación de la estructura global del sistema es un nuevo tipo de problema.
+El desarrollo de software es un proceso complejo que requiere la aplicación de diferentes técnicas y herramientas. Los patrones de diseño son una de estas herramientas que pueden ayudar a los desarrolladores a diseñar sistemas de software más eficientes y fáciles de mantener.
 
 # INDICE
 
@@ -2664,87 +2657,6 @@ En JavaScript, el patrón Visitor se puede utilizar para:
 * Aplicar una operación a todos los elementos de una estructura de datos sin tener que cambiar el código de los elementos.
 <br>
 
-
-## 🏗️ Patrones de arquitectura 🏗️
-
-<img src="./img/patrones-de-arquitectura-de-software.png" style="display:block; margin:0 auto;">
-
-Los patrones de diseño de arquitectura de software se pueden clasificar en dos categorías principales:
-
-## ⚙️ Patrones de organización:  
-
-Estos patrones se centran en la estructura global de un sistema. Definen la relación entre los componentes de un sistema y cómo se comunican entre sí.
-Patrones de comportamiento: Estos patrones se centran en el comportamiento de un sistema. Definen cómo los componentes de un sistema interactúan entre sí para lograr un objetivo.
-Algunos ejemplos de patrones de diseño de arquitectura de software son:
-
-## ⚙️ Patrón de capas: 
-
-Este patrón divide un sistema en capas, cada una de las cuales se encarga de una tarea específica.
-
-## ⚙️ Patrón cliente-servidor: 
-
-Este patrón divide un sistema en dos partes: los clientes, que realizan peticiones, y los servidores, que responden a las peticiones.
-
-## ⚙️ Patrón de microservicios:  
-
-Este patrón divide un sistema en un conjunto de servicios independientes que se comunican entre sí.
-Los patrones de diseño de arquitectura de software pueden ser una herramienta valiosa para los arquitectos de software. Pueden ayudar a los arquitectos a diseñar sistemas más eficientes, escalables y adaptables.
-
-
-# ✔️ Ventajas de los patrones de diseño de arquitectura de software: ✔️
-
-🟢 *Reutilización:* Los patrones de diseño de arquitectura de software se pueden reutilizar en diferentes proyectos. Esto puede ahorrar tiempo y esfuerzo a los arquitectos.
-
-🟢 *Mejora de la calidad:* Los patrones de diseño de arquitectura de software pueden ayudar a los arquitectos a diseñar sistemas más eficientes, escalables y adaptables.
-
-🟢 *Comunicación:* Los patrones de diseño de arquitectura de software pueden ayudar a los arquitectos a comunicar sus diseños a otros miembros del equipo.
-
-# ❌ Desventajas de los patrones de diseño de arquitectura de software: ❌
-
-🔴 *No son soluciones universales:* Los patrones de diseño de arquitectura de software no son soluciones universales. Es importante que los arquitectos los adapten a las necesidades específicas de su proyecto.
-
-🔴 *Pueden ser difíciles de aprender:* Los patrones de diseño de arquitectura de software pueden ser difíciles de aprender, especialmente para los arquitectos principiantes.
-
-Los patrones de diseño de arquitectura de software pueden ser una herramienta valiosa para los arquitectos de software. Pueden ayudar a los arquitectos a diseñar sistemas más eficientes, escalables y adaptables.
-
-# ❕ ¿CÓMO DIFERENCIAR UN PATRÓN ARQUITECTÓNICO? ❕
-
-Para diferenciar un patrón arquitectónico, se pueden tener en cuenta los siguientes criterios:
-
-🔹 *Nivel de abstracción:* Los patrones arquitectónicos se centran en la estructura global de un sistema, mientras que los patrones de diseño se centran en el diseño de componentes individuales.
-
-🔹 *Ámbito:*  Los patrones arquitectónicos se centran en problemas comunes en la arquitectura de software, mientras que los patrones de diseño se centran en problemas comunes en el diseño de software.
-
-🔹 *Estructura:* Los patrones arquitectónicos definen la estructura global de un sistema, mientras que los patrones de diseño definen la estructura de componentes individuales.
-
-🔹 *Comportamiento:* Los patrones arquitectónicos definen el comportamiento de un sistema, mientras que los patrones de diseño definen el comportamiento de componentes individuales.
-
-
-# QUÉ SON LOS ESTILOS ARQUITECTONICOS❓❓❓
-
-Los estilos arquitectónicos son un conjunto de principios y prácticas que se utilizan para diseñar sistemas de software. Los estilos arquitectónicos proporcionan una plantilla para la estructura y el comportamiento de un sistema, y pueden ayudar a los arquitectos a diseñar sistemas más eficientes, escalables y adaptables.
-
-## 👫 Relación entre los patrones de diseño, arquitectónicos y estilos arquitectóinicos
-
-Los estilos arquitectónicos se pueden clasificar en dos categorías principales:
-
-## 🗼 Estilos arquitectónicos de organización: 
-
-Estos estilos se centran en la estructura global de un sistema. Definen la relación entre los componentes de un sistema y cómo se comunican entre sí.
-
-## 🗼 Estilos arquitectónicos de comportamiento: 
-
-Estos estilos se centran en el comportamiento de un sistema. Definen cómo los componentes de un sistema interactúan entre sí para lograr un objetivo.
-
-## 🔎 Estrategias para elegir un estilo arquitectónico: 🔎
-
-Al elegir un estilo arquitectónico, los arquitectos deben considerar los siguientes factores:
-
-☑️ *Los requisitos del sistema:*  Los arquitectos deben considerar los requisitos funcionales y no funcionales del sistema al elegir un estilo arquitectónico.
-
-☑️ *Las limitaciones del sistema:* Los arquitectos deben considerar las limitaciones del sistema, como la plataforma de hardware y software, al elegir un estilo arquitectónico.
-
-☑️ *Las preferencias del equipo:* Los arquitectos deben considerar las preferencias del equipo de desarrollo al elegir un estilo arquitectónico.
 
 # FUENTES
 
